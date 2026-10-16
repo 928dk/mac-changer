@@ -1,0 +1,2 @@
+customtkinter>=5.2.0
+scapy>=2.5.0
